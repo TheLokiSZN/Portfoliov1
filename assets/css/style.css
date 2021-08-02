@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #270303;
+    background-color: #000000;
     color: #ffffff;
 }
 
@@ -49,6 +49,15 @@ a {
 p {
     font-size: 25px;
 }
+
+.banner {
+    height: 250px;
+    width: 100%;
+    background-image: url('./images/banner\ header.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
 
 .float-left {
     float: left;
