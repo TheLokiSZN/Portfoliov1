@@ -59,11 +59,6 @@ span {
     padding: 10px;
 }
 
-.aligned {
-    display: flex;
-    align-items: center;
-}
-
 .banner {
     height: 250px;
     width: 100%;
@@ -117,8 +112,6 @@ span {
 
 .work img {
     border: 10px solid gray;
-    position: relative;
-    margin: auto;
 }
 
 .About-Me h2,
